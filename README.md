@@ -50,12 +50,12 @@ The screenshot shows:
 
 ![Image](https://github.com/user-attachments/assets/e39bcf67-50a2-4e70-97cf-b26451d18104)
 
-## 🏁 Outcome:
+##  Outcome:
 - Task successfully completed using Google Drive
 - No credit card, no third-party installation required
 - All 3 security aspects implemented: IAM, encryption, secure storage
 
-## 🗂 Files Submitted:
+##  Files Submitted:
 - img.jpg
 -  MEFA.pdf
 -  README.md (this file)
