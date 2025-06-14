@@ -2,11 +2,17 @@
 
 # Cloud Security Task 4 - CodTech Internship
 
-Intern Name: Atluri Swetha  
-**Intern ID:** CT04DL970  
-**Domain:** Cloud Computing  
-**Company:** CodTech IT Solutions  
-**Task Duration:** 4 Weeks  
+COMPANY CODTECH IT SOLUTIONS
+
+ NAME: SWETHA ATLURI
+
+ INTERN ID: CT04DL970
+
+ DOMAIN: CLOUD COMPUTING
+
+ DURATION: 4 WEEEKS
+
+ MENTOR: NEELA SANTOSH
 
 ##  Objective:
 To demonstrate cloud security implementation using secure storage, access control, and data encryption — using free tools without installations.
