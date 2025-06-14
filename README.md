@@ -8,12 +8,10 @@ Intern Name: Atluri Swetha
 **Company:** CodTech IT Solutions  
 **Task Duration:** 4 Weeks  
 
----
-
-## 🔐 Objective:
+##  Objective:
 To demonstrate cloud security implementation using secure storage, access control, and data encryption — using free tools without installations.
 
-## 🔧 Tools Used:
+##  Tools Used:
  Google Drive (Free cloud platform)
 
 ## Steps Performed:
@@ -26,7 +24,7 @@ To demonstrate cloud security implementation using secure storage, access contro
    -  MEFA.pdf
 
 3. IAM Simulation:
-   - Opened "Share" settings for `img.jpg`
+   - Opened "Share" settings for img.jpg
    - Set General Access to Restricted
    - Confirmed that only the owner (me) can view it
 
@@ -36,24 +34,22 @@ To demonstrate cloud security implementation using secure storage, access contro
      - AES-256 at rest
      - TLS in transit
 
----
-
 ## 📸 Screenshot:
 The screenshot shows:
 - Restricted file sharing
 - Owner name
 - File uploaded in secure cloud folder
 
----
+![Image](https://github.com/user-attachments/assets/b5c2aa71-ed95-4ed9-9f6c-5b86de8d6671)
+
+![Image](https://github.com/user-attachments/assets/e39bcf67-50a2-4e70-97cf-b26451d18104)
 
 ## 🏁 Outcome:
 - Task successfully completed using Google Drive
 - No credit card, no third-party installation required
 - All 3 security aspects implemented: IAM, encryption, secure storage
 
----
-
 ## 🗂 Files Submitted:
-- `img.jpg`
-- `MEFA.pdf`
-- `README.md` (this file)
+- img.jpg
+-  MEFA.pdf
+-  README.md (this file)
